@@ -1,0 +1,9 @@
+<Project>
+	<PropertyGroup>
+		<RootNamespace>Cll</RootNamespace>
+		<Authors>Serhii Kuzmychov</Authors>
+		<Company />
+		<RepositoryUrl>https://github.com/ku3mich/Cll/</RepositoryUrl>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+</Project>
